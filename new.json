@@ -1,0 +1,34 @@
+{
+      "name":"Aesha",
+      "is_dog":false,
+      "hobbies":[
+            "reading",
+            "dancing",
+            "hiking"
+      ],
+      "age":45,
+      "address":{
+            "work":null,
+            "home":[
+                  "Kathmandu",
+                  "Nepal"
+            ]
+      },
+      "friends":[
+            {
+                  "name":"abc",
+                  "hobbies":[
+                        "eating",
+                        "hiking",
+                        "reading"
+                  ]
+            },
+            {
+                  "name":"def",
+                  "hobbies":[
+                        "running",
+                        "reading"
+                  ]
+            }
+      ]
+}
